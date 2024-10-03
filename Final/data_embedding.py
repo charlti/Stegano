@@ -12,7 +12,7 @@ from PIL import Image
 # ***Prétraitement de l'image*** 
 
 
-image_folder =  'C:\\Users\\charl\\OneDrive\\Documents\\Projet_SAFE_final\\image_folder'
+image_folder =  'path_to_image_folder'
 
 image = select_random_image(image_folder)
 img_preprocessed = preprocess_image(image)

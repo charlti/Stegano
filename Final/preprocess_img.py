@@ -8,7 +8,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 
-image_folder =  'C:\\Users\\charl\\OneDrive\\Documents\\Projet_SAFE_final\\image_folder'
+image_folder =  'path_to_image_folder'
 
 def select_random_image(image_folder):
     """Sélectionne une image au hasard dans le dossier spécifié et la retourne en niveaux de gris."""

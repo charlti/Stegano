@@ -11,7 +11,7 @@ from preprocess_img import preprocess_image
 from preprocess_img import select_random_image
 
 
-image_folder =  'C:\\Users\\charl\\OneDrive\\Documents\\Projet_SAFE_final\\image_folder'
+image_folder =  'path_to_image_folder'
 
 #Génération de clé 
 def generate_random_seed():
